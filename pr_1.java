@@ -3,6 +3,9 @@ import java.util.Scanner;
 
 public class pr_1 {
     public static void main(String[] args) {
+        System.out.println("made by v");
+        System.out.print("made by v");
+        System.out.print("made by v");
         Scanner input = new Scanner(System.in);
         int n1, n2, n3, n4, n5, n6, n7, n8, n9, n10, max, min;
 
