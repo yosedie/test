@@ -2,7 +2,12 @@ import java.util.Arrays;
 import java.util.Scanner;
 
 public class pr_1 {
-    public static void main(String[] args) {
+    public static void main(String[] args) {System.out.println(" made by v ");
+                                            System.out.println(" made by G ");
+                                            System.out.print(" made by V ");
+                                            System.out.print(" made by D ");
+                                            System.out.printf(" made by g ");
+                                            System.out.printf(" made by d ");
         Scanner input = new Scanner(System.in);
         int n1, n2, n3, n4, n5, n6, n7, n8, n9, n10, max, min;
 
